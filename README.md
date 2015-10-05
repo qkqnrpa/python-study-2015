@@ -1,12 +1,14 @@
 # PythonStudy2015
 
+## Ready for
+We will have a goal every week. You should make branch with your name. You have to do assignment of there.
+
 ## Direction of progress
 
-1. Every monday, make directory with proper goal in `README.md` in `master` branch. We call it **goal of week**.
-2. Make branch with **your name**. You have to work in your branch.
-3. Make directory in **goal of week** with name your name.
-4. Summary your knowedge in your `README.md` (you should study [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
-5. When you ahcieve **goal of week**, please merge with `master` branch
+1. Every Monday, Study leader(@incleaf) will make a directory with **goal** (on `master` branch)
+2. Then, You should make your directory in directory made by @incleaf.
+3. Summary your knowledge in your README.md (You should be study [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+4. When you finish the assignment, please merge with master branch.
 
 ## Material
 
