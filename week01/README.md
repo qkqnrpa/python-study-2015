@@ -1,6 +1,7 @@
 # week01: 개발환경 세팅 및 기초 학습
 
 ## Goals
+- [Git 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 - [Git 기초](https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EA%B8%B0%EC%B4%88)
 - [파이썬이란 무엇인가](https://wikidocs.net/5)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
