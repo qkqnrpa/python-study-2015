@@ -8,7 +8,7 @@ brew로 python3를 설치해 보기로 했다.
 $ brew install python3
 ```
 
-bash 권한 문제 때문인지 설치가 제대로 안 됐다.
+bash 권한 문제 때문인지 설치가 제대로 안 됐다. 설치 완료 후 마지막에 아래와 같은 메시지를 뿜었다:
 
 ```
 Error: An unexpected error occurred during the `brew link` step
@@ -86,7 +86,7 @@ Python 2.7.10
 
 ## Python Exit
 
-python 명령어로 파이선 프롬프트(?)로 진입했을 때 명령어가 아닌 함수 호출로 빠져나와야 한다.
+python 명령어로 파이썬 CLI로 진입했을 때 `exit` 명령어나 `Ctrl+C`가 아닌 `exit()` 함수 호출이나 `Ctrl+D`로 빠져나와야 한다.
 
 ```
 $ python
