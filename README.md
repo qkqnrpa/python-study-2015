@@ -1,4 +1,4 @@
-# PythonStudy2015
+# python-study-2015
 
 ## Ready for
 We will have a goal every week. You should make branch with your name. You have to do assignment of there.
