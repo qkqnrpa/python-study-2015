@@ -73,7 +73,7 @@ $ brew doctor
 Your system is ready to brew.
 ```
 
-## Python Version Check
+## Python version check
 
 버전 확인 옵션은 `-V`다. **대문자**다. 또는 `--version`
 
@@ -84,9 +84,9 @@ $ python --version
 Python 2.7.10
 ```
 
-## Python Exit
+## Python exit
 
-python 명령어로 파이썬 CLI로 진입했을 때 `exit` 명령어나 `Ctrl+C`가 아닌 `exit()` 함수 호출이나 `Ctrl+D`로 빠져나와야 한다.
+Python shell로 진입했을 때 `exit` 명령어나 `Ctrl+C`가 아닌 `exit()` 함수 호출이나 `Ctrl+D`로 빠져나와야 한다.
 
 ```
 $ python
@@ -98,7 +98,7 @@ Use exit() or Ctrl-D (i.e. EOF) to exit
 >>> exit()
 ```
 
-## Execute Python3
+## Python3 execution 
 
 python3 설치 후 환경변수 등을 변경해야 하는 줄 알았는데 python3는 아예 명령어가 달랐다. 허무 :/
 
