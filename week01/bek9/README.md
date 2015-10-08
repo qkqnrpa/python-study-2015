@@ -97,3 +97,17 @@ Type "help", "copyright", "credits" or "license" for more information.
 Use exit() or Ctrl-D (i.e. EOF) to exit
 >>> exit()
 ```
+
+## Execute Python3
+
+python3 설치 후 환경변수 등을 변경해야 하는 줄 알았는데 python3는 아예 명령어가 달랐다. 허무 :/
+
+```
+$ python3
+Python 3.4.3 (default, Oct  6 2015, 23:23:31) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.72)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> exit()
+$ python3 -V
+Python 3.4.3
+```
