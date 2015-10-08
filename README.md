@@ -12,6 +12,7 @@ We will have a goal every week. You should make branch with your name. You have 
 
 ## Material
 
+- Python 2.7.10
 - [Jump To Python](https://wikidocs.net/2)
 - Whatever!
 
