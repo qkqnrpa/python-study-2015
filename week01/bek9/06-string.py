@@ -21,14 +21,14 @@ print(hello + world)
 print("=" * 50)
 
 # indexing
-str = "I'mma do what I wanna do"
-print(str[4]) # a
-print(str[-2]) # d
+string = "I'mma do what I wanna do"
+print(string[4]) # a
+print(string[-2]) # d
 
 # slicing
-print(str[9:13]) # w(9)h(10)a(11)t(12)
-print(str[14:]) # I wanna do
-print(str[:8]) # I'mma do
+print(string[9:13]) # w(9)h(10)a(11)t(12)
+print(string[14:]) # I wanna do
+print(string[:8]) # I'mma do
 
 # slicing date
 dat = "20151010Sunny"
@@ -79,12 +79,12 @@ print(python.lower()) # python
 
 print(hello.count("l")) # 2
 
-print(str.find("'")) # 1 (없으면 -1 리턴)
-print(str.index("'")) # 1 (없으면 에러)
+print(string.find("'")) # 1 (없으면 -1 리턴)
+print(string.index("'")) # 1 (없으면 에러)
 
 print(quotes.replace("bek9", "Hyeonjong")) # I'm Hyeonjong.
 
 print(",".join("apple")) # a,p,p,l,e
-print(str.split()) # ["I'mma", 'do', 'what', 'I', 'wanna', 'do']
+print(string.split()) # ["I'mma", 'do', 'what', 'I', 'wanna', 'do']
 
-print("  hi  ".lstrip(), "  hi  ".strip(), "  hi  ".rstrip()) # hi__ hi __hi
+print("  hi  ".lstringip(), "  hi  ".stringip(), "  hi  ".rstringip()) # hi__ hi __hi

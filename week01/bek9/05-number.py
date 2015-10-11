@@ -25,7 +25,7 @@ print(abs(c)) # 3.605551275463989
 # calc
 print(bek9 + n) # 9
 print(bek9 * n) # -10900
-print(bek9 / n) # python 2.7 = -2, python3 = -1.09
+print(bek9 / n) # python 2.7 = -2, python 3 = -1.09
 
 # exponentiation
 print(2 ** 4) # 16
